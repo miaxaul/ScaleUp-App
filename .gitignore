@@ -1,0 +1,19 @@
+# --- secret
+.env
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.venv/
+
+# --- Database & Storage (Kalau ada folder data lokal) ---
+pgdata/
+minio_data/
+
+# --- OS & Editor ---
+.DS_Store
+.vscode/
+.idea/
