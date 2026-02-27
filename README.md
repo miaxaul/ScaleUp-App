@@ -36,3 +36,6 @@ DB_NAME=assignment_db
 # MinIO Configuration
 MINIO_USER=your_admin_user
 MINIO_PASSWORD=your_admin_password
+```
+
+### Author: Brielliana
